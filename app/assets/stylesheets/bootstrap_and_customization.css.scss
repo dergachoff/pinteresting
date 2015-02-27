@@ -1,0 +1,21 @@
+$body-bg: #ecf0f1;
+
+$navbar-inverse-bg: #34495e;
+$navbar-inverse-color: #ecf0f1;
+$navbar-inverse-link-color: #ecf0f1;
+$navbar-inverse-link-hover-bg: #1abc9c;
+
+$jumbotron-bg: #1abc9c;
+$jumbotron-color: #34495e;
+$jumbotron-heading-color: #ecf0f1;
+
+$btn-primary-bg: #f1c40f;
+$btn-primary-color: #34495e;
+
+
+
+@import 'bootstrap';
+
+body {
+	padding-top: 20px;
+}
